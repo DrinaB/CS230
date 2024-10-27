@@ -2,7 +2,7 @@
 
 ### 1. **Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
    - **Client**: The Gaming Room.
-   - **Software Requirements**: The Game room wanted a web-based game that could serve multiple platforms, based on their existing Android app, *Draw It or Lose It*. The software needed to support multi-user gameplay, manage unique game and team names, allow multiple teams and players, and ensure only one instance of the game is in memory at a time.
+   - **Software Requirements**: The Gaming room wanted a web-based game that could serve multiple platforms, based on their existing Android app, Draw It or Lose It. The software needed to support multi-user gameplay, manage unique game and team names, allow multiple teams and players, and ensure only one instance of the game is in memory at a time.
 
 ### 2. **What did you do particularly well in developing this documentation?**
    - I focused on creating clear, detailed documentation that directly addressed the client’s specific software requirements. This helped ensure alignment with their needs and expectations, which contributed to a streamlined development process.
